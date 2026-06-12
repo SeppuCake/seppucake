@@ -8,7 +8,7 @@ I build practical systems that solve real business problems.
 ## 🧠 About Me
 
 - 💻 Backend-focused developer (PHP, MySQL, APIs)
-- ⚙️ Experienced in building full systems from scratch
+- ⚙️ Experienced in building full systems
 - 🔍 Strong in debugging, system logic, and problem-solving
 - 🚀 Currently learning modern stack (React, Next.js, Node.js)
 

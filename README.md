@@ -38,6 +38,9 @@ I build practical systems that solve real business problems.
 ### 🔹 Central Task Monitor *(Internal System)*
 Web-based system to manage service requests, task assignments, and reporting across departments.
 
+### 🔹 Data Workflow Automation *(Internal System)*
+Data Workflow Automation is a desktop workflow tool concept built to reduce repetitive manual work in document processing operations.
+
 ### 🔹 Tenant Management System *(Client Project)*
 Handles tenant records, billing, maintenance requests, and automated notifications.
 
@@ -45,7 +48,7 @@ Handles tenant records, billing, maintenance requests, and automated notificatio
 
 ## ⚠️ Note
 
-Most of my production work is in private repositories due to company and client confidentiality.  
+Most of my production work are in private repositories due to company and client confidentiality.  
 This profile highlights selected projects and system-level experience.
 
 ---

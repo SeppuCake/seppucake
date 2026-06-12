@@ -1,6 +1,6 @@
 # Hi, I'm Hakeem 👋
 
-### Full Stack Web Developer | Backend-Focused Systems Builder | Malaysia 🇲🇾
+### Full Stack Web Developer | Backend-Focused Systems Builder | Malaysia
 
 I build practical web systems that solve real operational problems.
 

@@ -18,7 +18,7 @@ I enjoy working close to the real business problem: understanding what users act
 * 🧾 Comfortable with **requirement gathering, documentation, SOPs, user guides, technical references, and long-term system support**
 * 🔐 Background in **Network Security** with **CCNA certification**, giving me a stronger foundation in systems, networking, and secure technology practices
 * 🤖 I use AI-assisted development tools responsibly for planning, debugging, documentation, learning, and productivity, while still validating logic, security, and maintainability manually
-* 🚀 Currently strengthening my skills in **Laravel, React, Next.js, Node.js, PostgreSQL, Docker, and modern backend engineering practices**
+* 🚀 Currently strengthening my skills in **Laravel, React, Docker, and modern backend engineering practices**
 
 ---
 
